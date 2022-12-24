@@ -1,0 +1,4 @@
+Pillow
+gym
+matplotlib
+scipy
